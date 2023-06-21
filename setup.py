@@ -10,5 +10,5 @@ setup(
     author='James Wilfong',
     author_email='wilfongjt@gmail.com',
 
-    py_modules=['my_pip_package'],
+    py_modules=['my_pip_package']
 )
