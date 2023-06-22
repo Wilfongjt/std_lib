@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 from std_lib_package import __version__
 
@@ -9,6 +9,5 @@ setup(
     url='https://github.com/Wilfongjt/std_lib',
     author='James Wilfong',
     author_email='wilfongjt@gmail.com',
-
-    py_modules=['std_lib_package']
+    packages=find_packages()
 )
