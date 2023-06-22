@@ -3,7 +3,7 @@ from setuptools import setup
 from my_pip_package import __version__
 
 setup(
-    name='std_lib',
+    name='my_pip_package',
     version=__version__,
 
     url='https://github.com/Wilfongjt/std_lib',
