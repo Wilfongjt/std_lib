@@ -5,4 +5,4 @@ cd ..
 pip install std_lib@git+https://github.com/Wilfongjt/std_lib
 
 #pip install git+https://github.com/Wilfongjt/std_lib.git#egg=my_pip_package
-#pip install git+git://github.com/Wilfongjt/std_lib.git#egg=my_pip_package
+#pip install git+git://github.com/Wilfongjt/std_lib_package.git#egg=my_pip_package
