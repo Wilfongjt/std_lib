@@ -1,3 +1,3 @@
 #!/bin/sh
 cd ..
-python3 -c "import my_pip_package; my_pip_package.hello_world()"
+python3 -c "import std_lib; std_lib.hello_world()"
