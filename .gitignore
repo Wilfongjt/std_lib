@@ -161,4 +161,4 @@ cython_debug/
 #
 .DS_Store
 #
-std_lib_package.egg-info/
+std_lib.egg-info/

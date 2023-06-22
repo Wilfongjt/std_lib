@@ -1,9 +1,9 @@
 from setuptools import setup, find_packages
 
-from std_lib_package import __version__
+from std_lib import __version__
 
 setup(
-    name='std_lib_package',
+    name='std_lib',
     version=__version__,
     url='https://github.com/Wilfongjt/std_lib',
     author='James Wilfong',
